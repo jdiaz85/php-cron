@@ -1,0 +1,7 @@
+#Prueba
+* * * * * echo "hola" >> result
+
+  #Prueba2
+#Por si acaso
+46 13 * * 6 echo "adios" >> result
+2 * *
