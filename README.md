@@ -10,5 +10,8 @@ The parameters are:
 * month - Number between 1 and 12. If the months does not matter, put *
 * dayOfWeek - Number between 1 and 7. If the day of Week does not matter, put *
 
+
+Use # at the beginning of the line in the configuration file to make a comment.
+
 It's called: \
 bin/console cron:init file
